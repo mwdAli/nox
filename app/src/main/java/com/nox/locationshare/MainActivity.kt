@@ -31,6 +31,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
 import com.google.android.gms.location.*
+import com.google.android.gms.tasks.CancellationTokenSource
 import com.nox.locationshare.ui.theme.NoxLocationShareTheme
 import com.nox.locationshare.ui.theme.SuccessGreen
 
